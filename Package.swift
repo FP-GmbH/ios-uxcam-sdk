@@ -3,7 +3,7 @@ import PackageDescription
 
 let version = "3.4.5"
 let checksum = "52f05b3760ee430fcc99a5dfdc644dc7fc99799df9da3f1eef4561c3f9c79e7e"
-let repoName = "ios-sdk"
+let repoName = "ios-uxcam-sdk"
 
 let package = Package(
 
