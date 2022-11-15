@@ -48,7 +48,7 @@ let package = Package(
 
         .binaryTarget(
             name: "UXCam",
-            url: "https://raw.githubusercontent.com/uxcam/ios-uxcam-sdk/\(version)/UXCam.xcframework.zip",
+            url: "https://raw.githubusercontent.com/uxcam/ios-sdk/\(version)/UXCam.xcframework.zip",
             checksum: checksum
         )
     ]
